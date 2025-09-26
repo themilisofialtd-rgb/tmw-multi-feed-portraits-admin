@@ -2,7 +2,7 @@
 /**
  * Plugin Name: TMW Multi-Feed Portraits — Admin
  * Description: Appends performerId to your AWE feed URLs using actor names from your site (auto-updating). Tools include front/back overrides, LIVE horizontal alignment + zoom per side, and manual uploads.
- * Version:     3.0.0
+ * Version:     4.0.0
  * Author:      TMW
  * License:     GPL-2.0+
  */
